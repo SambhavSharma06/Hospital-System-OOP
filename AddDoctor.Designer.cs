@@ -2,7 +2,6 @@
 {
     partial class AddDoctor
     {
-        /// <summary>
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
@@ -290,4 +289,5 @@
         private System.Windows.Forms.RadioButton femaleRB;
         private System.Windows.Forms.RadioButton maleRB;
     }
+
 }
