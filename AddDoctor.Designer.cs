@@ -1,5 +1,5 @@
 ﻿namespace HMS___CA_ONE
-{
+ {
     partial class AddDoctor
     {
         /// Required designer variable.
