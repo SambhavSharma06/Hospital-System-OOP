@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;e
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
 namespace HMS___CA_ONE
     public partial class AddDoctor : Form
     {
