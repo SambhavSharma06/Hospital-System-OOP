@@ -1,7 +1,7 @@
 ﻿namespace HMS___CA_ONE
  {
     partial class AddDoctor
-        /// Required designe
+        /// Required design
      le.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
